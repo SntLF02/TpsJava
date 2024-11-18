@@ -8,25 +8,8 @@ public class ejerc1 {
         //•	Usa un bucle para registrar las horas y luego calcula el tiempo total dedicado.
 
 
-        float horas,total;
-
-        total=0;
-        String []tipo= {"estudiar: ","hacer ejercicio","leer","tiempo libre"};
-
-        try {
-
-            for (int i=0;i<4;i++){
-                horas=Float.parseFloat(JOptionPane.showInputDialog("Ingrese cuantas horas le dedica a "+tipo[i]));
-                total+=horas;
-            }
-
-            JOptionPane.showMessageDialog(null,"Tiempo total dedicado: "+total+" Hs");
-
-        }   catch (Exception e) {
-            JOptionPane.showMessageDialog(null,"Formato incorrecto");
-        }
-
-
+        for (int i = 1; i <= 3; i++)
+            System.out.println(i);
 
     }
 }
