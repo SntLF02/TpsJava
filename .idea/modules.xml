@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EjercicioClasePlatenayClase/EjercicioClasePlatenayClase.iml" filepath="$PROJECT_DIR$/EjercicioClasePlatenayClase/EjercicioClasePlatenayClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp1_Secuenciales/Tp1_Secuenciales.iml" filepath="$PROJECT_DIR$/Tp1_Secuenciales/Tp1_Secuenciales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp2_Condicionales/Tp2_Condicionales.iml" filepath="$PROJECT_DIR$/Tp2_Condicionales/Tp2_Condicionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp3_Bucles/Tp3_Bucles.iml" filepath="$PROJECT_DIR$/Tp3_Bucles/Tp3_Bucles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp4_Metodos/Tp4_Metodos.iml" filepath="$PROJECT_DIR$/Tp4_Metodos/Tp4_Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp5_BuclesAnidados/Tp5_BuclesAnidados.iml" filepath="$PROJECT_DIR$/Tp5_BuclesAnidados/Tp5_BuclesAnidados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp6_POOAsociaciones/Tp6_POOAsociaciones.iml" filepath="$PROJECT_DIR$/Tp6_POOAsociaciones/Tp6_POOAsociaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tpsJava.iml" filepath="$PROJECT_DIR$/.idea/tpsJava.iml" />
+    </modules>
+  </component>
+</project>
